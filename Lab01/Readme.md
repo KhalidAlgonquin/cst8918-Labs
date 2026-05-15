@@ -28,7 +28,7 @@ The original application code is provided in the lab repository:
 ```text
 .
 ├── README.md
-├── screenshot.png
+├── Screenshot-Lab01.png
 └── k8s/
     ├── a01_namespace.yaml
     ├── a01_deployment.yaml
@@ -90,6 +90,6 @@ kubectl get secrets -n cst8918
 
 Final deployment screenshot:
 
-![Lab 01 Screenshot](./screenshot-lab01.png)
+![Lab 01 Screenshot](./Screenshot-Lab01.png)
 
 ---
